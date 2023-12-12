@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=907ed4&height=150&section=header&text=Welcome!&fontColor=ECE9F7&fontSize=70&animation=scaleIn&fontAlignY=62)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
