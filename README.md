@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=soft&color=907ed4&height=150&section=header&text=Welcome!&fontColor=ECE9F7&fontSize=70&animation=scaleIn&fontAlignY=62)
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=907ed4&height=150&section=header&text=Welcome!&fontColor=ECE9F7&fontSize=70&animation=scaleIn&fontAlignY=62)
+<div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
