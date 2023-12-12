@@ -31,6 +31,6 @@ Here are some ideas to get you started:
  🖥️⌨️
  
 <br/>
-![chaeyoung's GitHub stats]
-<img src="https://github-readme-stats.vercel.app/api?username=ChaeyoungYoon&show_icons=true&theme=midnight-purple">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChaeyoungYoon&show_icons=true&theme=buefy">
 </div>
