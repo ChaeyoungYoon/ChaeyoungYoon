@@ -37,9 +37,11 @@ Here are some ideas to get you started:
 #### Welcome to my gitgub🖥️⌨️ 
  
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChaeyoungYoon&show_icons=true&theme=buefy">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeyoungYoon&layout=compact"/>
-<br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaeyoungYoon&theme=buefy"/> <br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaeyoungYoon&theme=buefy"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaeyoungYoon&theme=buefy"/> <br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaeyoungYoon&theme=buefy"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaeyoungYoon&theme=buefy&utcOffset=8"/>
+<<br/>
 </div>
